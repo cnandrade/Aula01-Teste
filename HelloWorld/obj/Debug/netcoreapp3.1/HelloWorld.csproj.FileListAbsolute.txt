@@ -1,0 +1,14 @@
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\candrade\Documents\GitHub\Aula01-Teste\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
